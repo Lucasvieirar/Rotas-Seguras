@@ -7,6 +7,10 @@ export default StyleSheet.create({
     flex: 1,
     backgroundColor: "#f2f2f2",
   },
+  map: {
+    width: width,
+    height: height,
+  },
   mapMock: {
     width: width,
     height: height,
